@@ -1,0 +1,6 @@
+opencv-python
+flask
+ultralytics
+Pillow
+python-dotenv
+google-generativeai
